@@ -222,6 +222,8 @@ p {
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
 }
 .button:hover {
   background: #ba9a01;
